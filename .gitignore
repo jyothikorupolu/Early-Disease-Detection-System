@@ -1,0 +1,10 @@
+venv/
+.env
+users.db
+predictions.db
+database/data.db
+
+__pycache__/
+.ipynb_checkpoints/
+model1.pkl
+*.pkl
