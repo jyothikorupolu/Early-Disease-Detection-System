@@ -206,4 +206,8 @@ Computer Science Undergraduate passionate about Machine Learning, AI Application
 
 ## ⭐ Support
 
+<<<<<<< HEAD
 If you found this project useful, please consider giving it a star on GitHub.
+=======
+If you found this project useful, please consider giving it a star on GitHub.
+>>>>>>> 1988a55bd0f8a41b12552ef11f6e9c75e8b85fea
